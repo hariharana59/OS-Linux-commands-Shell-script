@@ -1,7 +1,7 @@
 ```
 Name:Hariharan.A
 Reg no:212223110013
-dept:CSE(IOT)
+Dept:CSE(IOT)
 ```
 
 
