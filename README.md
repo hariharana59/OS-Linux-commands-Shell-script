@@ -1,5 +1,9 @@
-## NAME:PAVITHRAN S
-## REGISTER NUMBER: 212223240113
+```
+Name:Hariharan.A
+Reg no:212223110013
+dept:CSE(IOT)
+```
+
 
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
